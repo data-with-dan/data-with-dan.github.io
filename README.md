@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Daana Masumi Data Science Portfolio
-description: Short introduction about yourself or the project
+title: Your Portfolio Title
+description: A short description of your portfolio
 ---
+
 
 ## Technologies Used
 - HTML
