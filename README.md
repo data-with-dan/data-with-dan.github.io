@@ -1,8 +1,7 @@
-# data-with-dan.github.io
-# Daana Masumi Data Science Portfolio
+# data-with-dan.github.io https://github.com/pages-themes/cayman
+title: [Daana Masumi Data Science Portfolio]
 
-## Introduction
-[Short introduction about yourself or the project]
+description:[Short introduction about yourself or the project]
 
 ## Technologies Used
 - HTML
